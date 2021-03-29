@@ -1,0 +1,27 @@
+body {
+    background-image: linear-gradient(90deg, lightblue, blue);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+#prueba {
+    position: absolute;
+    left: 650;
+    top: 100;
+}
+
+h1 {
+    color: rgb(56, 59, 56);
+    position: absolute;
+    top: 200;
+    left: 50;
+    font-size: 5rem;
+}
+
+h3 {
+    font-size: 3rem;
+    position: absolute;
+    top: 150;
+    left: 200;
+    font-size: 3rem;
+    color: rgb(34, 27, 27);
+}
